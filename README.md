@@ -2,8 +2,6 @@
 
 This is a web app developed as a final project for SheCodes React using React.js. It allows users to search for the weather conditions of any city in the world and provides current weather information. The app fetches weather data using the SheCodes Weather API.
 
-#Live
-https://react-weather-app-ten-gules.vercel.app/
 # Features
 
 - Users can search for weather conditions of any city in the world.
@@ -33,7 +31,7 @@ To use the app, simply type the name of the city you want to search for in the s
 
 # Demo
 
-A live demo of the React Weather App is available at [LINK TO LIVE DEMO]
+A live demo of the React Weather App is available at [LINK TO LIVE DEMO] https://react-weather-app-ten-gules.vercel.app/
 
 # Credits
 
